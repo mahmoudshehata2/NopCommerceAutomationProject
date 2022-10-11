@@ -1,0 +1,2 @@
+file:src/main/resources/ProjectFeatures/F07_FollowUs.feature:12
+file:src/main/resources/ProjectFeatures/F06_SlidersWrapper.feature:4:8

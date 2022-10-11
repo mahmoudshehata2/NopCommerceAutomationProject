@@ -1,0 +1,14 @@
+org\example\PagesPOM\P1_RegisterationPage.class
+org\example\UtilitiesAdd\UtilitiesClass.class
+org\example\StepDefinitions\D04_SearchProductsStepD.class
+org\example\StepDefinitions\D07_FollowUsStepD.class
+org\example\PagesPOM\P3_HomePagePOM.class
+org\example\StepDefinitions\D01_RegistrationStepD.class
+org\example\PagesPOM\P2_LoginPage.class
+org\example\StepDefinitions\D08_AddToWishlistStepD.class
+org\example\StepDefinitions\D02_LoginStepD.class
+org\example\StepDefinitions\Hook.class
+org\example\StepDefinitions\D05_hoverCategStepD.class
+org\example\StepDefinitions\D06_SlidersWrapperStepD.class
+org\example\TestRunnerProject\report.class
+org\example\StepDefinitions\D03_CurrenciesStepD.class
